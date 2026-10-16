@@ -9,11 +9,11 @@ Warbler is a virtual analog software synthesizer made with C++ and JUCE. It is c
 <sub>Warbler being used in a digital audio workstation.</sub>
 
 
-https://github.com/user-attachments/assets/a23c70ac-de17-44c7-918e-d6ada105031c
+https://github.com/user-attachments/assets/9467bbd6-c3fe-48aa-b13c-c4d0c2bdbc21
 
 <sub>Warbler sound demo 1.</sub>
 
 
-https://github.com/user-attachments/assets/7316d0d4-ef53-4e6e-a443-f46e4c19b991
+https://github.com/user-attachments/assets/93f018c2-232c-4024-aad2-af458085fc43
 
 <sub>Warbler sound demo 2.</sub>
